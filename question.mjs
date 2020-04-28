@@ -85,6 +85,8 @@ var questions = [
     new Question("Who composed Rhapsody in Blue?", ["Irving Berlin", "George Gershwin", "Aaron Copland", "Cole Porter"], "George Gershwin"),
     new Question("What is the Celsius equivalent of 77 degrees Fahrenheit?", ["15", "20", "25", "30"], "25"),
     new Question("Which Shakespeare play features the line 'Neither a borrower, nor a lender be'?", ["Hamlet", "Macbeth", "Othello", "The Merchant of Venice"], "Hamlet"),
+    new Question("When was the first modern Olympic Games held?", ["1897", "1896", "1789", "1869"], "1896"),
+    new Question("How many points is the letter X worth in English-language Scrabble?", ["8", "9", "10", "11"], "8")
 ];
  
 // create quiz
